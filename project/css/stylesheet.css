@@ -1,6 +1,15 @@
 h1 {
     font-size: 85px;
 }
-.brand{
-text-align:center;
+.brand {
+    text-align: center;
+}
+.map {
+    width: 100%;
+    height: 300px;
+}
+.social {
+    width: 25px;
+    height: 25px;
+    align-content: right;
 }
