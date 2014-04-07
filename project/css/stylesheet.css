@@ -13,3 +13,13 @@ h1 {
     height: 25px;
     align-content: right;
 }
+.blurb {
+    text-align: left;
+    padding-left: 9%;
+    padding-right: 9%;
+}
+.blurbcenter {
+    text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
+}
