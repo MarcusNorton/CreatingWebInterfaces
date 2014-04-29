@@ -23,6 +23,9 @@ h1 {
     padding-left: 8%;
     padding-right: 8%;
 }
+.blurbpadding {
+    padding: 8%;
+}
 .displayed {
     display: block;
     margin-left: auto;
