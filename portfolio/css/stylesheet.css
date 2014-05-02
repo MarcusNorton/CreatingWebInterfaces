@@ -4,14 +4,20 @@ h1 {
 .brand {
     text-align: center;
 }
-.map {
-    width: 100%;
-    height: 300px;
+.works {
+    align-content: center;
+    height: 25em;
+    width: 20em;
+    padding: 2em;
 }
 .social {
     width: 25px;
     height: 25px;
-    align-content: right;
+    align-content: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
 }
 .blurb {
     text-align: left;
@@ -24,7 +30,7 @@ h1 {
     padding-right: 8%;
 }
 .blurbpadding {
-    padding: 8%;
+    padding: 5%;
 }
 .displayed {
     display: block;
@@ -36,9 +42,28 @@ h1 {
     width: 15%;
     height: 15%;
 }
+.logopadding {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
 .bigpics {
     width: 60%;
     height: 60%;
     padding: 8%;
     align-content: center;
+}
+.container {
+    width: 100%;
+    max-width: 1280px;
+    min-width: 320px;
+    margin: 0 auto;
+    clear: both;
+}
+.col-3 {
+    float: left;
+    width: 30.8%;
+    margin-right: 3.8%;
+}
+.last {
+    margin-right: 0;
 }
